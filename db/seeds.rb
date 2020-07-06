@@ -10,9 +10,9 @@
 Card.destroy_all
 Deck.destroy_all
 
-ruby = Deck.create(title: 'Ruby', img:'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png')
-rails = Deck.create(title: 'Rails', img:'https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png')
-react = Deck.create(title: 'React', img:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png')
+ruby = Deck.create(title: 'Ruby', img:'../../assets/Ruby.png')
+rails = Deck.create(title: 'Rails', img:'../../assets/Rails.png')
+react = Deck.create(title: 'React', img:'../../assets/React.png')
 
 ruby_sample1 = Card.create(
   term: 'What does Array.select() return?',
