@@ -15,6 +15,7 @@ rails = Deck.create(title: 'Rails', img:'https://pbs.twimg.com/media/CZGHPChUAAA
 react = Deck.create(title: 'React', img:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png')
 js = Deck.create(title: 'JavaScript', img:'https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png')
 
+
 ruby_sample1 = Card.create(
   term: 'What does Array.select() return?',
   definition: "Array.select() returns a new array with all of the
