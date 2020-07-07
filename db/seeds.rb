@@ -17,6 +17,7 @@ js = Deck.create(title: 'JavaScript', img:'https://user-images.githubusercontent
 general = Deck.create(title: 'General', img: 'https://pngio.com/images/png-a2028343.html')
 css = Deck.create(title:'CSS', img:'https://cdn.worldvectorlogo.com/logos/css3.svg')
 html = Deck.create(title:'HTML', img:'https://image.flaticon.com/icons/svg/919/919827.svg')
+python = Deck.create(title:'Python', img:'https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png')
 
 ruby_sample1 = Card.create(
   term: 'What does Array.select() return?',
@@ -149,7 +150,7 @@ react_sample14 = Card.create(
 )
 
 react_sample15 = Card.create(
-  term: 'Dynamic Components',
+  term: 'Dynamic Component',
   definition: '',
   difficulty: 0,
   deck_id: react.id
@@ -213,6 +214,41 @@ react_sample23 = Card.create(
 
 react_sample24 = Card.create(
   term: 'onChange',
+  definition: '',
+  difficulty: 0,
+  deck_id: react.id
+)
+
+react_sample25 = Card.create(
+  term: 'Static Component',
+  definition: '',
+  difficulty: 0,
+  deck_id: react.id
+)
+
+react_sample26 = Card.create(
+  term:'Declarative Programming',
+  definition: '',
+  difficulty: 0,
+  deck_id: react.id
+)
+
+react_sample27 = Card.create(
+  term:'Imperative Programming',
+  definition: '',
+  difficulty: 0,
+  deck_id: react.id
+)
+
+react_sample28 = Card.create(
+  term:'synthetic events',
+  definition: '',
+  difficulty: 0,
+  deck_id: react.id
+)
+
+react_sample29 = Card.create(
+  term:'Controlled Form',
   definition: '',
   difficulty: 0,
   deck_id: react.id
