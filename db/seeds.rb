@@ -14,7 +14,9 @@ ruby = Deck.create(title: 'Ruby', img:'https://upload.wikimedia.org/wikipedia/co
 rails = Deck.create(title: 'Rails', img:'https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png')
 react = Deck.create(title: 'React', img:'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png')
 js = Deck.create(title: 'JavaScript', img:'https://user-images.githubusercontent.com/4727/38117842-2d270f22-336c-11e8-8413-e5daf9ae41e9.png')
-
+general = Deck.create(title: 'General', img: 'https://pngio.com/images/png-a2028343.html')
+css = Deck.create(title:'CSS', img:'https://cdn.worldvectorlogo.com/logos/css3.svg')
+html = Deck.create(title:'HTML', img:'https://image.flaticon.com/icons/svg/919/919827.svg')
 
 ruby_sample1 = Card.create(
   term: 'What does Array.select() return?',
