@@ -253,3 +253,283 @@ react_sample29 = Card.create(
   difficulty: 0,
   deck_id: react.id
 )
+
+general_sample1 = Card.create(
+  term:'Procedure',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample2 = Card.create(
+  term:'Function',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample3 = Card.create(
+  term:'Method',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample4 = Card.create(
+  term:'Hash',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample5 = Card.create(
+  term:'Array',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample6 = Card.create(
+  term:'Object',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample7 = Card.create(
+  term:'Enumerable',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample8 = Card.create(
+  term:'Applicative',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample9 = Card.create(
+  term:'Select',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample10 = Card.create(
+  term:'Reduce',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample11 = Card.create(
+  term:'Map',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample12 = Card.create(
+  term:'Find',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample13 = Card.create(
+  term:'instance method',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample14 = Card.create(
+  term:'class method',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample15 = Card.create(
+  term:'Gemfile.lock',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample16 = Card.create(
+  term:'Gemfile',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample18 = Card.create(
+  term:'Single Source of Truth',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample19 = Card.create(
+  term:'environment.rb',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample20 = Card.create(
+  term:'ORM',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample21 = Card.create(
+  term:'API',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample22 = Card.create(
+  term:'Semantic HTML',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample23 = Card.create(
+  term:'the DOM',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample24 = Card.create(
+  term:'the HTTP Request/Response cycle',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample25 = Card.create(
+  term:'the Web',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample26 = Card.create(
+  term:'the Internet',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample27 = Card.create(
+  term:'Computer Virus',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample28 = Card.create(
+  term:'Validation',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample29 = Card.create(
+  term:'an Event',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample30 = Card.create(
+  term:'Event Bubbling',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample31 = Card.create(
+  term:'Referential Transparency',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample32 = Card.create(
+  term:'the 4 pillars of OOP',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample33 = Card.create(
+  term:'Functional Programming',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample34 = Card.create(
+  term:'Authentication',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample35 = Card.create(
+  term:'Authorization',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample36 = Card.create(
+  term:'Serialization',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample37 = Card.create(
+  term:'MVC',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample38 = Card.create(
+  term:'Big O',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample39 = Card.create(
+  term:'Closure',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample40 = Card.create(
+  term:'CORS',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
+
+general_sample41 = Card.create(
+  term:'DRY',
+  definition: '',
+  difficulty: 0,
+  deck_id: general.id
+)
